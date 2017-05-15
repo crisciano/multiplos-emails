@@ -1,3 +1,7 @@
+##Synopsis
+
+This system for sending multiple emails was created in the beginning for testing, not the correct way to make it work more, for small amounts it works very well, here in the case I use PHPmailer and 2 models, one for queries made from a database. And another to an array of manually entered users. Later I will create an improved system to create a system of sending multiple simultaneous emails.
+
 
 #PT-Br
 
